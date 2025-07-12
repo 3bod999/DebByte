@@ -13,12 +13,12 @@ bun = """
 -by 0xSilver 
 
 1) kali 
-2) porrot 
+2) Parrot OS 
 3) debain 
-4) Parrot OS
-5) Flatpak + Flathub (BurpSuite, Cutter, Wireshark)
-6) Visual Studio Code
-7) Metasploit Framework from Rapid7
+4) Flatpak + Flathub (BurpSuite, Cutter, Wireshark)
+5) Visual Studio Code
+6) Metasploit Framework from Rapid7
+
 
 """
 
@@ -129,17 +129,17 @@ def main():
             ins_debian()
         else:
             rem_debian()
-    elif choice == "5":
+    elif choice == "4":
         if action == "i":
             ins_flatpak()
         else:
             rem_flatpak()
-    elif choice == "6":
+    elif choice == "5":
         if action == "i":
             ins_vscode()
         else:
             rem_vscode()
-    elif choice == "7":
+    elif choice == "6":
         if action == "i":
             ins_metasploit()
         else:
