@@ -31,6 +31,11 @@ Instead of adding sources and tools manually, DebByte helps you do it in a few s
 ## Screenshot
 
 ![image](https://github.com/user-attachments/assets/7920639e-fd71-4c8b-8f4b-56e0e3799a89)
+-----
+
+
+https://github.com/user-attachments/assets/31d0ebda-0092-432b-8f9f-36509e36d744
+
 
 ---
 
